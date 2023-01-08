@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Словарь</string>
+    <string name="settings">Настройки</string>
+    <string name="language_setting_second">Français</string>
+    <string name="language_settings_first">English</string>
+    <string name="language_settings_third">Deutsch</string>
+    <string name="language_settings">Переводим с этого языка:</string>
+    <string name="demonstration_settings_text">Выберите отображение перевода:</string>
+    <string name="russian_first_left_upper_text">СЛОВО НА РУССКОМ</string>
+    <string name="russian_first_left_lower">Перевод на другие языки</string>
+    <string name="russian_first_right">Время первого запроса</string>
+    <string name="foreign_first_left_upper">ЯЗЫК ИСТОЧНИКА</string>
+    <string name="foreign_first_left_lower">Перевод на русский язык</string>
+    <string name="foreign_first_right">Время первого запроса</string>
+    <string name="detail_the_word">Слово: %s</string>
+    <string name="detail_part_of_speech">Часть речи:</string>
+    <string name="detail_part_of_speech_case">глагол</string>
+    <string name="detail_transcription">Транскрипция:</string>
+    <string name="detail_transcription_case">бла-бла</string>
+    <string name="detail_request_time">Первый раз искали:</string>
+    <string name="detail_request_time_case">24.12.22</string>
+    <string name="detail_language">Язык:</string>
+    <string name="detail_language_case">английский</string>
+    <string name="detail_translation">Перевод:</string>
+    <string name="detail_translation_case">куркума</string>
+    <string name="word_list_menu">Список слов</string>
+    <string name="progress_dialog_text">Please wait...</string>
+    <string name="foreign_detail_translation">перевод: \n%s</string>
+    <string name="foreign_detail_translation_item">\t%s (%s)\n</string>
+    <string name="foreign_detail_translation_item_not_noun">\t%s\n</string>
+    <string name="foreign_detail_transcr">транскрипция: [%s]</string>
+    <string name="russian_detail_translation">%d. %s (%s)</string>
+    <string name="russian_detail_translations">На английском: %s \nНа французском: %s \nНа немецком: %s</string>
+</resources>

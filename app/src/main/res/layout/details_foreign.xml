@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/ll_foreign_details"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="15dp"
+        >
+        <TextView
+            android:id="@+id/part_of_speech"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="глагол"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"/>
+        <TextView
+            android:id="@+id/transcription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/foreign_detail_transcr"
+            android:textSize="16sp"
+            />
+        <TextView
+            android:id="@+id/translation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/foreign_detail_translation"
+            android:textSize="16sp"
+            />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
